@@ -7,6 +7,6 @@
 `C++` `Python` `Java` `LLM` `AI Agent` `LangChain`
 
 **Currently**
-- Building AI agent workflows
+- Deep vibe coding with AI agents
 - Contributing to open source
 - Blogging at [leehao.me](https://leehao.me)
