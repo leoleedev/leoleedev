@@ -7,6 +7,6 @@
 `C++` `Python` `Java` `LLM` `AI Agent` `LangChain`
 
 **Currently**
-- Deep vibe coding with AI agents
+- Deep vibe coding with Claude Code / Codex
 - Contributing to open source
 - Blogging at [leehao.me](https://leehao.me)
