@@ -4,7 +4,7 @@
 
 **Tech Stack**
 
-`C++` `Python` `Java` `Go` `LLM`
+`C++` `Python` `Java` `LLM` `AI Agent` `LangChain`
 
 **Currently**
 - 🤖 Building AI agent workflows
